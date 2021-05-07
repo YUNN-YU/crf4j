@@ -1,0 +1,300 @@
+查找 一家 不 收 费 的 礁 溪 山 水 妍 温 泉 会 馆###price##不 收 费##name##礁 溪 山 水 妍 温 泉 会 馆##
+请 找 一个 大 超 市###cat##大 超 市##
+四 四 三 零 零 零 宜 昌 市 北 苑 有 哪些###locality##四 四 三 零 零 零 宜 昌 市##name##北 苑##
+我 想 要 吃 庚 娇 阁 北 汲 路 的 租 车 行###locality##庚 娇 阁##street##北 汲 路##cat##租 车 行##
+查 poi 莽 牛 山 的 反 射 疗 法 诊 所###locality##莽 牛 山##cat##反 射 疗 法 诊 所##
+目 的 哪边 有 能 打 麻 将 的 地方###relative_location##目 的##cat_implicit##打 麻 将##
+查询 奥 体 中 心 在 赛 罕 区 沿 线 上 的 地址###name##奥 体 中 心##locality##赛 罕 区##relative_location##沿 线 上##
+替 我 显示 百 元 以 下 的 新 疆 菜 馆 上 午 十 点 十 分###price##百 元 以 下##cat##新 疆 菜 馆##endtime##上 午 十 点 十 分##
+查 有 凉 拌 平 蘑 的 地方 去掉 菜 馆###product##凉 拌 平 蘑##
+找 找 一下 汉 堡 店###cat##汉 堡 店##
+近 一 年 去 过 的 搜索###relative_location##近 一 年 去 过 的##
+是否 有 下 地 下 入 境 层 巧 克 力 商 店 的 平 价 的 韩 式 饭 店###relative_location##地 下 入 境 层##anchor##巧 克 力 商 店##price##平 价##cat##韩 式 饭 店##
+二 四 二 零 零 零 新 市 河 路 上 哪里 可 买 到 一 百 九 十 块 的 休 闲 按 摩###locality##二 四 二 零 零 零##street##新 市 河 路##price##一 百 九 十 块##product##休 闲 按 摩##
+请 帮 我 在 固 原 市 找 找 什么 地方 有 一 点 五 星 级 以 上 的 比 基 尼###locality##固 原 市##quality##一 点 五 星 级 以 上##product##比 基 尼##
+快 找 亳 州 二 三 六 零 零 零 的 能 加 九 十 八 无 铅 汽 油 的 中 国 移 动 通 信 察 隅 授 权 销 售 点###locality##亳 州 二 三 六 零 零 零##fueltype##九 十 八 无 铅 汽 油##name##中 国 移 动 通 信 察 隅 授 权 销 售 点##
+我 正在 搜索 中 途 停 靠 站 的 东 部 华 侨 城###relative_location##中 途 停 靠 站##name##东 部 华 侨 城##
+钟 山 区 星 际 酒 店 分 行 的 无 铅 汽 油 哪 一个 最 经 济###locality##钟 山 区##name##星 际 酒 店 分 行##fueltype##无 铅 汽 油##price##最 经 济##
+搜 一下一个 没 车 占 用 的 跆 拳 道###availability##没 车 占 用##cat##跆 拳 道##
+我 要 搜索 海 运 广 场 供应 九 五 无 铅 性 价 比 最 好 的 美 联 超 市###locality##海 运 广 场##fueltype##九 五 无 铅##price##性 价 比 最 好##name##美 联 超 市##
+help _ me 查询 未 占 用 到 差 一 刻 七 点 到 五 点 整 的 四 千 六 百 块 的 于 人 事 就 业 中 心###availability##未 占 用##endtime##差 一 刻 七 点##endtime##五 点 整##price##四 千 六 百 块##cat##于 人 事 就 业 中 心##
+找 一下 北 城 天 街 的 有 酒 吧 的 酒 店###street##北 城 天 街##cat##有 酒 吧 的 酒 店##
+沿 线 有 什么 比 较 火 公 园 的 地方###relative_location##沿 线##quality##比 较 火##cat##公 园##
+请 搜寻 一家 在 太 阳 岛 的 小 河 帮 川 菜 铺###locality##太 阳 岛##cat##小 河 帮 川 菜 铺##
+在 六 点 七 公 里 之 内 赶紧 查看 处 德 国 菜###distance##六 点 七 公 里 之 内##cat##德 国 菜##
+我 想 要 吃 在 阿 富 汗 宝 民 二 路 的 原 味###locality##阿 富 汗##street##宝 民 二 路##product##原 味##
+是否 有 歌 顿 维 多 利 亚 酒 店 的 行 政 套 房 星 期 三 离开###name##歌 顿 维 多 利 亚 酒 店##roomtype##行 政 套 房##enddate##星 期 三##
+在 四 二 三 零 零 零 郴 州 市 的 我 家 路 上 看 可以 吉 林 餐 馆 怎么样###locality##四 二 三 零 零 零 郴 州 市##relative_location##家 路 上##cat##吉 林 餐 馆##
+打开 urbanspoon 搜 个 在 大 学 区 灵 山 路 上 的 北 京 的 包 子###provider##urbanspoon##locality##大 学 区##street##灵 山 路##cat##北 京 的 包 子##
+哪里 有 目 的 周 边 的 国 际 美 食 停 两 个 小 时 二 十 分 钟###relative_location##目 的 周 边##cat##国 际 美 食##duration##两 个 小 时 二 十 分 钟##
+替 我 找 找 位于 休 闲 中 心 的 价 格 合 理 路 边 泊 车 位 停 车###anchor##休 闲 中 心##price##价 格 合 理##cat##路 边 泊 车 位 停 车##
+在 石 景 山 其 它 找 价格 低于 四 十 九 元 的 芝 士 火 锅 餐 厅###locality##石 景 山 其 它##price_max##四 十 九 元##cat##芝 士 火 锅 餐 厅##
+帮 我 查找 一下 哪里 哪 一家 的 饭 二 点 五 以 上 的 女 士 的 停 车 处 非 常 差###quality##二 点 五 以 上##cat##女 士 的 停 车 处##quality##非 常 差##
+我 想 有 villa 吗###cat##villa##
+help _ me 找 贵 州 饭 馆###cat##贵 州 饭 馆##
+樊 山 的 在 哪个 地方 能 找到 能 吃 剃 须 刀 的 地方###locality##樊 山##product##剃 须 刀##
+还有 床位 的 摩 托 车 停 车 点###cat##摩 托 车 停 车 点##
+哪个 街 道 停 车 有 位 在 这 个 区###cat##街 道 停 车##relative_location##这 个 区##
+搜 索 副 食 商 店 或 者 是 房 产 交 易 中 心###
+寻找 乘 坐 热 气 球 住 的 附 近###cat##乘 坐 热 气 球##relative_location##住 的 附 近##
+本 地 附 近 有 没 有空 的 朝 鲜 族 建 筑###relative_location##本 地 附 近##cat##朝 鲜 族 建 筑##
+车 百 路 我 要 查找 是否 有 裤 子###street##车 百 路##product##裤 子##
+黄 泥 大 山 齐 门 路 六 楼 哪里 的 家 庭 旅 馆 有 意 大 利 菜 馆 地点###locality##黄 泥 大 山##street##齐 门 路##buildingnum##六 楼##cat##家 庭 旅 馆##cat##意 大 利 菜 馆##
+寻找 一个 大约 六 千 两 百 的 洗 纹 身###price_about##六 千 两 百##cat##洗 纹 身##
+寻找 位于 上 下 九 商 业 区 的 保 利 拍 卖 公 司 的 买 衣 服###locality##上 下 九 商 业 区##anchor##保 利 拍 卖 公 司##cat##买 衣 服##
+internalshouldnevermatchpoifavorite 在 那个 方向###personal_poi##internalshouldnevermatchpoifavorite##
+订 一个 星期五 的 旅 游###cat##旅 游##
+最 三 百 元 的 油 哪里 有###price##三 百 元##
+帮 我 搜 一下 边 那 里 的 浩 然 商 行###relative_location##边 那 里##name##浩 然 商 行##
+去 哪儿 找 几个 在 九 百 一 十 元 和 六 十 的 南 京 菜 馆###price_min##九 百 一 十 元##price_max##六 十##cat##南 京 菜 馆##
+开启 地 图 我 要 搜索 一些 舞 蹈 用 品 店 在 甘 井 子 区 便 宜 的 九 八 无 铅###provider##地 图##name##舞 蹈 用 品 店##locality##甘 井 子 区##price##便 宜##fueltype##九 八 无 铅##
+这 儿 看看 最 有 名 的 的 竹 笋 日 本 豆 腐 炒 螺 片###relative_location##这 儿##quality##最 有 名 的##product##竹 笋 日 本 豆 腐 炒 螺 片##
+快 寻找 一处 价位 在 六 千 左右 的 色 拉 铺 快 找 找 看 几个 差不多 七 千 块 的 购 物 广 场###price_about##六 千##cat##色 拉 铺##price_about##七 千 块##cat##购 物 广 场##
+在 在 线 目 的 地 附 近 找 一个 价格 在 八 块 和 二 千 九 百 块 之间 的 许 可 证 车 场 趴 车###relative_location##在 线 目 的 地 附 近##price_min##八 块##price_max##二 千 九 百 块##cat##许 可 证 车 场 趴 车##
+搜索 漕 溪 路 接近 文 景 街 七 八 弄 交 叉 路 口 的 吉 林 餐 馆###street##漕 溪 路##intersectingstreet##文 景 街 七 八 弄##trafficcategory##交 叉 路 口##cat##吉 林 餐 馆##
+搜索 珙 县 星 展 银 行 皇 后 大 道 中 跟 县 道 g 五 零 零 幺 重 庆 绕 城 高 速 交界 休 闲 车 车 位 泊 车 有 哪些###locality##珙 县##street##星 展 银 行 皇 后 大 道 中##intersectingstreet##县 道 g 五 零 零 幺 重 庆 绕 城 高 速##cat##休 闲 车 车 位 泊 车##
+找 一下 文 诚 路 一个 油 要 用 光 的 地 儿###street##文 诚 路##cat_implicit##油 要 用 光##
+我 这 个 地 区 四 娱 乐 场 所 ktv 的 位置###relative_location##这 个 地 区##starrating##四##cat##娱 乐 场 所 ktv##
+我们 想 要 知道 在 烟 台 花 园 新 村 动 力 南 五 路 与 洞 港 路 交界 当 前 位 置 的 牛 老 二 在 哪###locality##烟 台 花 园 新 村##street##动 力 南 五 路##intersectingstreet##洞 港 路##relative_location##当 前 位 置##cat##牛 老 二##
+我 想 查查 汽 车 开 发 区 的 营 业 中 的 多 层 车 位 趴 车###locality##汽 车 开 发 区##open##营 业 中##cat##多 层 车 位 趴 车##
+向 友 山 中 坝 南 路 和 交 桂 路 路 口 十 分 钟 车 程 内 找 一下 一家 一 千 块 的 喝 烹 饪 书 的 地方###locality##向 友 山##street##中 坝 南 路##intersectingstreet##交 桂 路##trafficcategory##路 口##relative_location##十 分 钟 车 程 内##price##一 千 块##product##烹 饪 书##
+哪里 有 一个 不 低 于 四 分 的 价格 低于 两 千 一 百 的 二 分 的 孟 加 拉 餐 馆 在 九 千 九 百 米 之 内###quality##不 低 于 四 分##price_max##两 千 一 百##quality##二 分##cat##孟 加 拉 餐 馆##distance##九 千 九 百 米 之 内##
+在 中 心 附 近 里 找到 广 州 天 河 城###relative_location##中 心 附 近##name##广 州 天 河 城##
+哪家 益 盛 大 药 行 的 波 兰 美 食 有加 五 十 的 九 八 无 铅 汽 油###name##益 盛 大 药 行##cat##波 兰 美 食##price##五 十##fueltype##九 八 无 铅 汽 油##
+请 帮 我 帮 我 办 公 的 地 方 周 围 提供 饰 品 店 吗###relative_location##办 公 的 地 方 周 围##cat##饰 品 店##
+查找 净 月 大 顶 山 东 川 公 路 哪儿 有 罗 非 鱼 也 可 以 这 样 吃 孔 雀 开 屏###locality##净 月 大 顶 山##street##东 川 公 路##product##罗 非 鱼 也 可 以 这 样 吃 孔 雀 开 屏##
+和 凤 镇 的 在 线 目 的 地 周 边 在 哪儿 能 找到 星 城 宾 馆###locality##和 凤 镇##relative_location##在 线 目 的 地 周 边##name##星 城 宾 馆##
+我 想 要 找 一下 三 十 里 堡 镇 s 二 幺 县 道 广 惠 高 速 价钱 价 格 合 理 的 升 降 书 桌 的 位置###locality##三 十 里 堡 镇##street##s 二 幺 县 道 广 惠 高 速##price##价 格 合 理##product##升 降 书 桌##
+中 途 滞 留 点 旁 娱 乐 的 地点 在 哪里###relative_location##中 途 滞 留 点 旁##cat_implicit##娱 乐##
+给 我 查查 香 港 西 路 哪儿 有 较 好 的 素 炒 酸 辣 菜 瓜###street##香 港 西 路##quality##较 好##product##素 炒 酸 辣 菜 瓜##
+搜索 接受 快 钱 或者 是 维 萨 的 公 共 场 所###cat##公 共 场 所##
+我 要 加 油 一会###cat_implicit##加 油##
+找 找 我 的 internalshouldnevermatchpoifavorite###personal_poi##internalshouldnevermatchpoifavorite##
+是否 有 一间 出 版 二 月 的 第 一 个 周 六 登记 二 十 七 日 离开###cat##出 版##date##二 月 的 第 一 个 周 六##enddate##二 十 七 日##
+寻找 一个 伟 帆 宾 馆###name##伟 帆 宾 馆##
+查看 地 区 的 露 天 车 场 趴 个 车 场所###relative_location##地 区##cat##露 天 车 场 趴 个 车##
+在 应 盛 阁 高 新 路 查找 一间 蹦 极 的 地 儿###locality##应 盛 阁##street##高 新 路##cat_implicit##蹦 极##
+我 要 查找 一间 价格 不 超过 两 百 二 十 元 的 理 发 师###price_max##两 百 二 十 元##cat##理 发 师##
+我们 要 来 在 私 下 找到 一间 巴 黎 公 园###relative_location##私 下##name##巴 黎 公 园##
+我 想 要 在 民 权 门 查 草 莓 蛋 糕###locality##民 权 门##product##草 莓 蛋 糕##
+营 业 的 不 收 钱 的 湖 水 岸 人 文 休 闲 旅 馆 在 哪边###open##营 业##price##不 收 钱##name##湖 水 岸 人 文 休 闲 旅 馆##
+兴趣 点 在 新 竹 京 口 区 裕 华 道 上 的 石 塘 咀 市 政 大 厦 皇 后 大 道 西 在 哪儿###locality##新 竹 京 口 区##street##裕 华 道##name##石 塘 咀 市 政 大 厦 皇 后 大 道 西##
+搜索 一个 现 在 营 业 的 一 千 牙 科 综 合 医 生###open##现 在 营 业##price##一 千##cat##牙 科 综 合 医 生##
+搜 可以 加 便 的 93 号 油 的 油 漆###price##便##fueltype##93 号 油##cat##油 漆##
+在 这 附 近 最 近 查查 六 寸 苹 果 派###relative_location##这 附 近 最 近##product##六 寸 苹 果 派##
+寻找 龙 苑 大 厦 a 二 座 延 长 路###name##龙 苑 大 厦 a 二 座##street##延 长 路##
+在 也 门 哪边 能 睡 觉 歇 息###locality##也 门##cat_implicit##睡 觉 歇 息##
+在 十 五 米 之 内 显示 一家 三 百 六 十 元 左右 的 售 票 点###distance##十 五 米 之 内##price_about##三 百 六 十 元##cat##售 票 点##
+请问 黄 龙 县 当 地 的 邮 局###locality##黄 龙 县##relative_location##当 地##cat##邮 局##
+找 目 的 地 周 边 有 无 汽 车 的 电 池 几 乎 没 电 的 地方###relative_location##目 的 地 周 边##cat_implicit##汽 车 的 电 池 几 乎 没 电##
+我 要 看看 泰 国 馆 子###cat##泰 国 馆 子##
+我们 要 搜索 在 挂 甲 塔 体 育 西 横 街 三 千 座 的 摩 洛 哥 饭 店 有 哪些###locality##挂 甲 塔##street##体 育 西 横 街##buildingnum##三 千 座##cat##摩 洛 哥 饭 店##
+现 在 营 业 的 婚 戒 首 饰 店 在 哪###open##现 在 营 业##cat##婚 戒 首 饰 店##
+兴趣 点 可以 喝 番 茄 搜索###product##番 茄##
+我 想 去 改 善 下 我 的 皮 肤 状 况 狗 粮 停 车###cat_implicit##改 善 下 我 的 皮 肤 状 况##product##狗 粮##cat_implicit##停 车##
+查 一下一个 我 的 internalshouldnevermatchpoifavorite###personal_poi##internalshouldnevermatchpoifavorite##
+查看 周 边 区 域 的 影 院###relative_location##周 边 区 域##cat##影 院##
+寻找 一下 booking 上 恒 山 南 街 的 女 人 的 车 场 趴 个 车###provider##booking##street##恒 山 南 街##cat##女 人 的 车 场 趴 个 车##
+找 一个 yellow pages 上 1 km 内 的 小 肥 羊###provider##yellow pages##relative_location##1 km 内##name##小 肥 羊##
+搜索 出 门 的 最 常 消 费 嘉 灵 顿 酒 店 管 理 顾 问 没 关 门 的###relative_location##出 门##popularity##最 常 消 费##name##嘉 灵 顿 酒 店 管 理 顾 问##open##没 关 门##
+找到 口 附 近 的 花 园 起 去 吃###relative_location##口 附 近##cat##花 园##
+查 个 唐 山 金 台 区 的 修 学 馆###locality##唐 山 金 台 区##cat##修 学 馆##
+寻找 个 兴趣 点 四 点 五 分 的 七 点 八 米 以 内 的 消 费 场 所###quality##四 点 五 分##distance##七 点 八 米 以 内##cat##消 费 场 所##
+我 想 要 在 黄 华 街 搜索 廉 价 的 普 拉 提###street##黄 华 街##price##廉 价##product##普 拉 提##
+查 要 去 的 地 方 大 关 夜 市 星 巴 克 店###relative_location##要 去 的 地 方##anchor##大 关 夜 市##name##星 巴 克 店##
+有 没有 一家 昂 坪 青 年 旅 舍 的 加 拿 大 馆 子###anchor##昂 坪 青 年 旅 舍##cat##加 拿 大 馆 子##
+选择 二 星 爬 山###quality##二 星##cat##爬 山##
+请 告诉 我 公 司 的 地 点 周 边 所有 家 庭 停 车 位 的 位置###relative_location##公 司 的 地 点 周 边##cat##家 庭 停 车 位##
+搜索 一 一 五 零 零 零 营 口 市 的 质量 最 地 道 的 培 训###locality##一 一 五 零 零 零 营 口 市##quality##最 地 道##product##培 训##
+我 想 找 目 标 周 边 三 百 块 九 十 号 油 的 潇 湘 菜 店###relative_location##目 标 周 边##price##三 百 块##fueltype##九 十 号 油##cat##潇 湘 菜 店##
+在 在 东 山 区 检索 几处 地 儿###locality##东 山 区##
+什么 地方 的 八 十 九 号 八 百 块###fueltype##八 十 九 号##price##八 百 块##
+南 湾 大 马 路 有 什么 三 点 五 级 吃 的 街 边 的 车 位###street##南 湾 大 马 路##quality##三 点 五 级##cat##街 边 的 车 位##
+请 查找 龙 城 宾 馆 在 哪###name##龙 城 宾 馆##
+我 要 吃 叙 永 县 的 顾 客 专 用 车 位###locality##叙 永 县##cat##顾 客 专 用 车 位##
+搜 我 后 面 的 上 档 次 的 吃 茶 餐 厅###relative_location##后 面##quality##上 档 次##cat##茶 餐 厅##
+门 前 我 能 找到 英 式 饭 馆 吗###relative_location##门 前##cat##英 式 饭 馆##
+给 我 搜 搜 五 星 级 的 香 水 的 位置###quality##五 星 级##product##香 水##
+我 要 查找 不 开 门 的 非 常 好 低 价 孔 府 菜 馆###open##不 开 门##quality##非 常 好##price##低 价##cat##孔 府 菜 馆##
+寻找 高 德 导 航 上 南 油 大 酒 店###provider##高 德 导 航##name##南 油 大 酒 店##
+打开 市 区 内 有 没有 集 团###relative_location##市 区 内##cat##集 团##
+快 寻 烟 台 提供 价 钱 低 廉 的 九 三 号 油 的 人 妖 表 演###locality##烟 台##price##价 钱 低 廉##fueltype##九 三 号 油##cat##人 妖 表 演##
+搜 一个 国 际 航 运 金 融 大 厦 工 作 周 边 打 折 足 疗 中 心###anchor##国 际 航 运 金 融 大 厦##relative_location##工 作 周 边##price##打 折##cat##足 疗 中 心##
+目 的 周 围 搜 搜 处 商 贸 城###relative_location##目 的 周 围##cat##商 贸 城##
+快 搜索 不 开 张 的 炸 鱼 薯 条 馆###open##不 开 张##cat##炸 鱼 薯 条 馆##
+找 一个 可以 打 保 龄 餐 前 酒 后 爽 口 甜 汤 南 瓜 酒 酿 小 元 宵 和 办 公 桌 的 地方###cat_implicit##打 保 龄##product##餐 前 酒 后 爽 口 甜 汤 南 瓜 酒 酿 小 元 宵##product##办 公 桌##
+在 该 区 域 附 近 看看 一下一个 评 的 2 的 随 便 吃 吃 的 上 海 菜 馆###relative_location##该 区 域 附 近##quality##2##customer_focus##随 便 吃 吃##cat##上 海 菜 馆##
+寻找 停 十 一 个 小 时 的 中 式 餐 厅###duration##十 一 个 小 时##cat##中 式 餐 厅##
+我 想 寻找 嘉 义 县 镇 巴 县 的 邮 筒 凌 晨 五 点 十 分###locality##嘉 义 县 镇 巴 县##cat##邮 筒##endtime##凌 晨 五 点 十 分##
+找 二 十 五 公 里 之 内 有 名 的 菲 律 宾 菜 馆###distance##二 十 五 公 里 之 内##popularity##有 名##cat##菲 律 宾 菜 馆##
+雁 飞 山 尖 沙 咀 赫 德 道 分 店 十 室 有 无能 吃 桌 游###locality##雁 飞 山##street##尖 沙 咀 赫 德 道 分 店##buildingnum##十 室##cat##桌 游##
+在 都 城 大 楼 查找 一个 被 用 了 的 能 充 二 十 二 个 小 时 四 十 五 分 钟 的 轮 椅 泊 车 位 趴 车###locality##都 城 大 楼##availability##被 用 了##duration##二 十 二 个 小 时 四 十 五 分 钟##cat##轮 椅 泊 车 位 趴 车##
+查找 兴 海 县 能够 泊 车 的 地 儿###locality##兴 海 县##cat_implicit##泊 车##
+开启 地 图 搜 办 公 的 地 点 的 许 可 证 泊 车 场 街 停 在 哪里###provider##地 图##relative_location##办 公 的 地 点##cat##许 可 证 泊 车 场 街 停##
+搜索 可以 加 九三号 汽油 或者 是 cng 的 员 工 专 用 车 位###cat##员 工 专 用 车 位##
+哪里 售 两 百 四 十 的 鞋 子###price##两 百 四 十##product##鞋 子##
+在 上 班 的 地 方 附 近 寻找 一家 在 威 斯 汀 酒 店 一 的 二 等 名 鞋 库###relative_location##上 班 的 地 方 附 近##anchor##威 斯 汀 酒 店 一##starrating##二 等##name##名 鞋 库##
+搜索 可以 加 九三号 油 或者 是 九二 无 铅 汽油 的 奔 驰 专 卖 店###cat##奔 驰 专 卖 店##
+赶紧 查查 别 的 个 地 方 的 小 郑 轿 车 修 理###relative_location##别 的 个 地 方##name##小 郑 轿 车 修 理##
+是否 有 本 城 市 悦 诗 风 吟 的 三 百 块 钱 防 盗 网 生 产 单 位###relative_location##本 城 市##anchor##悦 诗 风 吟##price##三 百 块 钱##cat##防 盗 网 生 产 单 位##
+我 要 来 知道 深 圳 市 五 一 八 零 零 零 芙 蓉 桥 的 山 药 炒 木 耳 有 哪些###locality##深 圳 市 五 一 八 零 零 零##street##芙 蓉 桥##product##山 药 炒 木 耳##
+拉 孜 雍 和 宫 大 街 上 寻找 什么 地方 有 价格 四 十 四 元 的 棉 袜###locality##拉 孜##street##雍 和 宫 大 街##price##四 十 四 元##product##棉 袜##
+查找 去 爵 士 舞 半 个 小 时 车 程 内 的 的 女 人 的 停 车 位###anchor##爵 士 舞##relative_location##半 个 小 时 车 程 内 的##cat##女 人 的 停 车 位##
+查查 一 百 元 的 德 国 菜 停 两 个 小 时 二 十 五 分###price##一 百 元##cat##德 国 菜##duration##两 个 小 时 二 十 五 分##
+住 换 车 搭 乘###cat##换 车 搭 乘##
+寻找 目 的 周 边 个 美 式 餐 馆###relative_location##目 的 周 边##cat##美 式 餐 馆##
+找 一家 tripadvisor 上 胜 古 山 的 工 业 七 路 的 九 九 旅 馆###provider##tripadvisor##locality##胜 古 山##street##工 业 七 路##name##九 九 旅 馆##
+在 户 撒 乡 搜 搜 个 地 儿 给 我 的 车 美 发###locality##户 撒 乡##cat_implicit##美 发##
+宝 丰 路 西 瓜 视 频 位置###street##宝 丰 路##name##西 瓜 视 频##
+搜索 一下 电 源 适 配 器###product##电 源 适 配 器##
+在 公 司 周 围 查 本 地 餐 厅###relative_location##公 司 周 围##cat##本 地 餐 厅##
+赶紧 找 找 近 点 何处 有 opu###relative_location##近 点##name##opu##
+help _ me 哪里 有 一个 正 被 占 用 的 turbo 商 场###availability##正 被 占 用##speed##turbo##cat##商 场##
+找 个 不 营 业 的 实 惠 的 银 川 昌 佳 工 贸 有 限 责 任 公 司###open##不 营 业##price##实 惠##name##银 川 昌 佳 工 贸 有 限 责 任 公 司##
+在 这 个 区 搜 一 西 侧 个 位于 六 号 线 白 石 桥 南 三 星 级 上 海 大 酒 店###relative_location##这 个 区##relative_location##西 侧##anchor##六 号 线 白 石 桥 南##starrating##三 星 级##name##上 海 大 酒 店##
+help _ me 哪里 有 马 塘 坳 的 未 占 用 印 尼 美 食###locality##马 塘 坳##availability##未 占 用##cat##印 尼 美 食##
+到 万 宜 坳 是否 有 价格 介于 七 十 三 块 和 二 十 六 块 的 四 星 的 防 盗 网 生 产 单 位###locality##万 宜 坳##price_min##七 十 三 块##price_max##二 十 六 块##starrating##四 星##cat##防 盗 网 生 产 单 位##
+在 鹤 壁 气 象 查找 能 买 到 生 菜 的 地方###anchor##鹤 壁 气 象##product##生 菜##
+显示 按 分 类 评分 排序 的 维 吾 尔 餐 厅###sort##分 类##cat##维 吾 尔 餐 厅##
+我 想 要 吃 尖 草 坪 商 圈 的 交 通 路 况 摄 像 头###locality##尖 草 坪 商 圈##cat##交 通 路 况 摄 像 头##
+找 提供 熨 斗 的 地方 除 过 唐阁###product##熨 斗##
+查询 三 级 的 商 务 间 要求 住 八 个 小 时 五 十 六 分 钟###starrating##三 级##roomtype##商 务 间##duration##八 个 小 时 五 十 六 分 钟##
+我 要 找 橫 不 营 业 的 人 气 旺 北 站 中 西 医 门 诊###locality##橫##open##不 营 业##popularity##人 气 旺##name##北 站 中 西 医 门 诊##
+找 兴趣 点 利 比 亞 的 含 金 量 ktv###locality##利 比 亞##name##含 金 量 ktv##
+能 帮 我 搜 上 三 路 上 的 1 的 纸 巾###street##上 三 路##quality##1##product##纸 巾##
+南 京 禄 口 机 场 办 公 室 周 边 去 哪儿 找 镁 镁 二 百 六 十 八 宾 馆###anchor##南 京 禄 口 机 场##relative_location##办 公 室 周 边##name##镁 镁 二 百 六 十 八 宾 馆##
+四 百 米 以 内 是否 有 提供 昆 仑 加 油 站 的 97 号 无 铅 汽 油###relative_location##四 百 米 以 内##name##昆 仑 加 油 站##fueltype##97 号 无 铅 汽 油##
+哪儿 有 一个 建 兴 东 路 五 千 座 的 修 学 馆###street##建 兴 东 路##buildingnum##五 千 座##cat##修 学 馆##
+我们 要 来 知道 四 一 七 零 零 零 娄 底 市 市 中 心 哪里 有 多 层 车 位###locality##四 一 七 零 零 零 娄 底 市##relative_location##市 中 心##cat##多 层 车 位##
+潇 湘 菜 哪边 走###cat##潇 湘 菜##
+赶紧 搜 搜 一些 同 安 邮 局 的 无 铅 汽 油 在 沿 路 最 近 的###name##同 安 邮 局##fueltype##无 铅 汽 油##relative_location##沿 路 最 近##
+钱 江 新 城 朝 外 大 街 有 可以 必 胜 客 停 车 场 吗###locality##钱 江 新 城##street##朝 外 大 街##cat##必 胜 客 停 车 场##
+能 替 我 最 有 名 的 港 式 早 茶###cat##最 有 名 的 港 式 早 茶##
+请 告诉 我 遂 平 县 现 在 这 里 的 西 班 牙 菜 有 哪些###locality##遂 平 县##relative_location##现 在 这 里##cat##西 班 牙 菜##
+请 显示 该 区 域 哪里 的 4 星 级 以 上 居 民 停 车 场 趴 个 车 有 三 百 个 家 庭 套 房 供 六 个 人 入住###relative_location##该 区 域##starrating##4 星 级 以 上##cat##居 民 停 车 场 趴 个 车##numberofrooms##三 百##roomtype##家 庭 套 房##numberofpersons##六 个 人##
+找寻 可以 人 比 较 少 和 方 便 的 地 中 海 饭 馆###amenity##人 比 较 少##amenity##方 便##cat##地 中 海 饭 馆##
+在 东 边 是否 有 一个 在 沃 尔 玛 商 场 至 少 四 星 级 的 马 鞍 广 场###relative_location##东 边##anchor##沃 尔 玛 商 场##starrating##至 少 四 星 级##name##马 鞍 广 场##
+找 兴趣 点 过 敏 症 专 科 医 生 在 哪儿###cat##过 敏 症 专 科 医 生##
+我 查 一下 停 车 位 停 车 场###cat##停 车 位 停 车 场##
+有 无 可以 加 一 万 块 的 无 铅 天 然 气 的 本 地 美 食###price##一 万 块##fueltype##无 铅 天 然 气##cat##本 地 美 食##
+在 四 百 一 十 公 里 之 内 找 找 一家 九 十 元 左右 的 喜 泊 客 停 车###distance##四 百 一 十 公 里 之 内##price_about##九 十 元##cat##喜 泊 客 停 车##
+我 想 显示 芳 园 天 山 支 路 跟 海 珠 南 路 的 书 店 花 店 药 店 超 市 彩 票 店 报 摊 洗 衣 店 宠 物 店 鞋 店 裁 缝 店 有 哪些###locality##芳 园##street##天 山 支 路##intersectingstreet##海 珠 南 路##cat##书 店 花 店 药 店 超 市 彩 票 店 报 摊 洗 衣 店 宠 物 店 鞋 店 裁 缝 店##
+有 没有 家 家 周 围 的 营 业 的 界 限 街 明 爱 宾 馆###relative_location##家 周 围##open##营 业##name##界 限 街 明 爱 宾 馆##
+到 那 个 地 方 有 没有 一间 五 颗 星 级 的 蛋 糕 店###relative_location##那 个 地 方##starrating##五 颗 星 级##cat##蛋 糕 店##
+找 一下 这 的 有 人 看 守 车 场 的 地方###relative_location##这##cat##有 人 看 守 车 场##
+搜 搜 一下 东 明 路 三 百 楼 奥 拓 中 心###street##东 明 路##buildingnum##三 百 楼##name##奥 拓 中 心##
+查 找 一 个 停 车 位 或 者 停 车 场###
+找 一个 访 客 停 车 场 大约 四 千 五 百 块###cat##访 客 停 车 场##price_about##四 千 五 百 块##
+有 没有 有 空 位 到 夜 晚 四 点 二 十 一 到 晚 上 八 点 半 的 停 车 搭 乘###availability##有 空 位##endtime##夜 晚 四 点 二 十 一##endtime##晚 上 八 点 半##cat##停 车 搭 乘##
+在 三 千 三 百 米 之 内 快 查查 一些 烟 台 餐 馆###distance##三 千 三 百 米 之 内##cat##烟 台 餐 馆##
+显示 个 我 该 区 域 附 近 个 的 地 儿###relative_location##该 区 域 附 近##
+在 鹿 寨 县 哪里 可以 找到 双 龙 大 厦 b 座###locality##鹿 寨 县##name##双 龙 大 厦 b 座##
+查找 在 快 富 宾 馆 河 南 岸 邮 政 支 局###anchor##快 富 宾 馆##name##河 南 岸 邮 政 支 局##
+找 个 附 近 1 公 里 内 的 药 房 网 的 九 十 五 号 油 机 场###relative_location##附 近 1 公 里 内##name##药 房 网##fueltype##九 十 五 号 油##cat##机 场##
+兴趣 点 百 花 蜂 业 有 哪些###name##百 花 蜂 业##
+我 要 知道 紐 埃 周 围 一 百 米 之 内 电 动 零 件 部 在 哪儿###locality##紐 埃##relative_location##周 围 一 百 米 之 内##cat##电 动 零 件 部##
+找 一下 希 腊 餐 厅 白 云 区 广 东 川 北 公 路 上###cat##希 腊 餐 厅##locality##白 云 区 广 东##street##川 北 公 路##
+一 哥 火 锅 的 油 何处 比较 最 便 宜 在 达 州 六 三 五 零 零 零###name##一 哥 火 锅##price##最 便 宜##locality##达 州 六 三 五 零 零 零##
+周 围 两 公 里 范 围 内 可 供 十 四 个 人 住宿 的 七 星 级 一 层 停 车 位###relative_location##周 围 两 公 里 范 围 内##numberofpersons##十 四 个 人##starrating##七 星 级##cat##一 层 停 车 位##
+我们 想 知道 宜 春 旁 在 哪儿 能 找到 波 斯 餐 馆###locality##宜 春##relative_location##旁##cat##波 斯 餐 馆##
+查找 威 海 二 六 四 二 零 零 哪儿 有空 分 店 从 人 气 排序###locality##威 海 二 六 四 二 零 零##cat##分 店##sort##人 气##
+湖 州 双 滦 区 中 国 交 通 银 行 的 九 十 号 汽 油 哪 一个 比较 贵###locality##湖 州 双 滦 区##name##中 国 交 通 银 行##fueltype##九 十 号 汽 油##price##贵##
+我 想 查询 北 京 饭 店 的 地址###cat##北 京 饭 店##
+在 五 五 零 零 零 零 西 安 路 找 出 一间 撸 串 的 地方###locality##五 五 零 零 零 零##street##西 安 路##cat_implicit##撸 串##
+搜索 兴趣 点 六 五 三 一 零 零 玉 溪 市 板 桥 大 道 上 的 科 普 百 科 书 怎么样###locality##六 五 三 一 零 零 玉 溪 市##street##板 桥 大 道##product##科 普 百 科 书##
+搜 五 二 五 零 零 零 茂 名 市 纹 眉 店###locality##五 二 五 零 零 零 茂 名 市##cat##纹 眉 店##
+我 想 显示 一个 位于 朗 廷 酒 店 l eclipse 许 可 证 泊 车 位 街 停###anchor##朗 廷 酒 店 l eclipse##cat##许 可 证 泊 车 位 街 停##
+在 金 港 大 道 有 没有 一个 苗 圃###street##金 港 大 道##cat##苗 圃##
+找 一家 最 低 三 星 级 消 费 场 所###starrating##最 低 三 星 级##cat##消 费 场 所##
+请 替 我 看看 最 有 名 的 但 价格 不 收 钱 的 泳 裤###quality##最 有 名 的##price##不 收 钱##product##泳 裤##
+查找 顺 道 的 optimum talent database 傲 马 人 事 顾 问 公 司 位置###relative_location##顺 道##name##optimum talent database 傲 马 人 事 顾 问 公 司##
+看 个 foursquare 上 那 里 附 近 的 女 士 专 用 泊 个 车###provider##foursquare##relative_location##那 里 附 近##cat##女 士 专 用 泊 个 车##
+找 蓬 江 区 一家 价格 两 千 一 百 元 以下 评价 很 不 好 的 公 墓###locality##蓬 江 区##price_max##两 千 一 百 元##quality##很 不 好##cat##公 墓##
+找 找 看 草 洋 山 能 加 超 级 无 铅 汽 油 的 食 店###locality##草 洋 山##fueltype##超 级 无 铅 汽 油##cat##食 店##
+寻找 一个 盘 龙 寺 山 的 能 充电 一 个 周 末 的 埃 塞 俄 比 亚 菜 馆###locality##盘 龙 寺 山##duration##一 个 周 末##cat##埃 塞 俄 比 亚 菜 馆##
+查找 无 锡 盐 山 县 人 气 旺 的 耳 鼻 喉 医 生###locality##无 锡 盐 山 县##popularity##人 气 旺##cat##耳 鼻 喉 医 生##
+显 示 贵 阳 银 行 或 者 郑 州 银 行###
+查 找 有 雨 衣 或 粉 饼 的 地 方###
+找 找 看 袁 家 火 山 的 哪儿 能 加 汽 油 93 号 最 贵 的 的 地方###locality##袁 家 火 山##fueltype##汽 油 93 号##price##最 贵 的##
+寻找 单 标 间 的 过 夜 车 位###roomtype##单 标 间##cat##过 夜 车 位##
+有 没有 这 个 附 近 比 较 流 行 的 修 理 厂###relative_location##这 个 附 近##popularity##比 较 流 行##cat##修 理 厂##
+我 的 车 在 建 设 小 区 a 三 区 东 北 门 理 头 了###locality##建 设 小 区 a 三 区 东 北 门##cat_implicit##理 头##
+搜 一下 烟 酒 专 营 店 到 达 地 附 近 十 二 星 来 福 门###anchor##烟 酒 专 营 店##relative_location##到 达 地 附 近##starrating##十 二 星##name##来 福 门##
+目 的 地 目 的 地 查 寻 有加 兰 州 西 站 的 中 级 汽 油###relative_location##目 的 地 目 的 地##name##兰 州 西 站##fueltype##中 级 汽 油##
+搜索 海 城 市 是否 有 aaaaa 价格 一 百 一 十 的 六 寸 加 高 可 可 戚 风###locality##海 城 市##quality##aaaaa##price##一 百 一 十##product##六 寸 加 高 可 可 戚 风##
+搜索 不是 商店 的 地 下###cat##地 下##
+搜索 办 公 室 附 近 的 p and d 趴 车 在 哪里###relative_location##办 公 室 附 近##cat##p and d 趴 车##
+帮忙 搜索 八 三 三 二 零 零 伊 犁 哈 萨 克 州 目 的 附 近 的 客 户 专 用 停 车 库###locality##八 三 三 二 零 零 伊 犁 哈 萨 克 州##relative_location##目 的 附 近##cat##客 户 专 用 停 车 库##
+看看 附 近 三 公 里 一个 能 惹 老 婆 生 气 的 地 儿###relative_location##附 近 三 公 里##cat_implicit##惹 老 婆 生 气##
+合 肥 市 人 民 广 场 长 安 街 跟 士 连 南 路 周 边 区 域 街 道 停 车 场###locality##合 肥 市 人 民 广 场##street##长 安 街##intersectingstreet##士 连 南 路##relative_location##周 边 区 域##cat##街 道 停 车 场##
+哪儿 有 停 七 个 小 时 三 十 分 钟 的 玩 具 店###duration##七 个 小 时 三 十 分 钟##cat##玩 具 店##
+在 在 那 儿 是否 有 一个 奥 拓 中 心 我 待 一 个 星 期###relative_location##那 儿##name##奥 拓 中 心##duration##一 个 星 期##
+赶紧 搜索 这 儿 附 近 哪 一家 代 客 停 车 位 停 个 车 的 京 标 油 很 最 便 宜###relative_location##这 儿 附 近##cat##代 客 停 车 位 停 个 车##fueltype##京 标 油##price##最 便 宜##
+狮 子 林 大 街 需要 搜 有 无 最 豪 华 百 元 以 下 的 狮 子 包###street##狮 子 林 大 街##quality##最 豪 华##price##百 元 以 下##product##狮 子 包##
+查 哪里 有 八 百 块 质量 又 三 点 五 星 级 的 青 椒 炒 牛 蛙 卖###price##八 百 块##quality##三 点 五 星 级##product##青 椒 炒 牛 蛙##
+查找 个 加 一 百 一 十 的 尿 素 的 加 拿 大 饭 店###price##一 百 一 十##fueltype##尿 素##cat##加 拿 大 饭 店##
+我 要 搜 不 营 业 的 比 较 流 行 的 中 国 联 通###open##不 营 业##popularity##比 较 流 行##name##中 国 联 通##
+搜索 一家 飞 达 工 商 业 中 心 要求 住 十 三 个 小 时 十 二 分 钟###name##飞 达 工 商 业 中 心##duration##十 三 个 小 时 十 二 分 钟##
+老 挝 餐 馆 有 哪 几个###cat##老 挝 餐 馆##
+我 要 找 找 看 能 用 现 钞 和 翼 支 付 的 土 家 族 餐 厅###payment_type##现 钞##payment_type##翼 支 付##cat##土 家 族 餐 厅##
+在 育 才 路 提供 吃 夜 宵 吗###street##育 才 路##cat_implicit##吃 夜 宵##
+在 周 边 区 域 找 处 提供 93 号 汽 油 的 地方###relative_location##周 边 区 域##fueltype##93 号 汽 油##
+一 五 二 零 零 零 绥 化 昌 仁 里 一 百 座 的 在 哪儿 能 找到 九 龙 华 美 达 酒 店###locality##一 五 二 零 零 零 绥 化##street##昌 仁 里##buildingnum##一 百 座##name##九 龙 华 美 达 酒 店##
+我们 要 吃 新 余 三 三 八 零 零 零 的 我 上 班 周 围 美 国 美 食###locality##新 余 三 三 八 零 零 零##relative_location##上 班 周 围##cat##美 国 美 食##
+打开 点评 看 沿 途 最 近 有 没有 研 究 宠 物 医 院###relative_location##沿 途 最 近##cat##研 究 宠 物 医 院##
+打 点评 找 1 km 内 有 没有 健 身###relative_location##1 km 内##cat##健 身##
+把 这 个 区 的 师 大 附 中 告诉 我###relative_location##这 个 区##name##师 大 附 中##
+查看 在 鞍 山 开 发 区 港 口 一 路 和 花 边 南 路 徽 菜 有 哪些###locality##鞍 山 开 发 区##street##港 口 一 路##intersectingstreet##花 边 南 路##cat##徽 菜##
+给 我 搜 搜 有 牛 仔 裙 或 者 参 考 书 的 地 方###
+我 想 搜 搜 一个 家 路 上 的 四 川 菜 餐 厅###relative_location##家 路 上##cat##四 川 菜 餐 厅##
+我 想 要 知道 五 百 米 内 辣 的 在 哪儿###relative_location##五 百 米 内##cat##辣 的##
+查找 兴趣 点 红 旗 区 兴 工 北 街 十 八 弄 的 可以 喝 斗 橱###locality##红 旗 区##street##兴 工 北 街##buildingnum##十 八 弄##product##斗 橱##
+寻找 这 座 城 市 处 哪儿 有 处 321 three twoone film production limited###relative_location##这 座 城 市##name##321 three twoone film production limited##
+哪里 有 一个 二 十 四 米 之 内 价格 大概 二 百 七 十 元 的 亲 子 泊 车 位###distance##二 十 四 米 之 内##price_about##二 百 七 十 元##cat##亲 子 泊 车 位##
+汇 展 酒 店 的 特 级 油 哪儿 非常 价 钱 低 在 芒 弄 山###name##汇 展 酒 店##fueltype##特 级 油##price##价 钱 低##locality##芒 弄 山##
+在 八 千 六 百 米 之 内 何处 有 处 可以 加 九 五 的 介于 九 千 两 百 元 到 两 百 八 十 块 的 莆 田 餐 厅###distance##八 千 六 百 米 之 内##fueltype##九 五##price_min##九 千 两 百 元##price_max##两 百 八 十 块##cat##莆 田 餐 厅##
+找 找 坐 山 供应 最 便 宜 的 八 九 号 油 的 传 统 美 式 餐 厅###locality##坐 山##price##最 便 宜##fueltype##八 九 号 油##cat##传 统 美 式 餐 厅##
+看看 兴 宁 市 服 务 区 s 一 零 韶 赣 高 速 价格 低 价 的 银 耳 莲 子 红 枣 桂 圆 羹 养 颜 又 美 味###locality##兴 宁 市##street##服 务 区 s 一 零 韶 赣 高 速##price##低 价##product##银 耳 莲 子 红 枣 桂 圆 羹 养 颜 又 美 味##
+在 卫 辉 查找 一个 的 未 被 使 用 的 小 姐###locality##卫 辉##availability##未 被 使 用##cat##小 姐##
+找 一 找 一家 在 峇 里 岛 汽 车 旅 馆 的 评 的 好 吃 的 冀 菜###anchor##峇 里 岛 汽 车 旅 馆##quality##好 吃 的##cat##冀 菜##
+自动 搜索 担 子 山 新 北 街 第 一 座 异 国 风 精 品 酒 店 十 五 层 二 办 公 的 地 点 周 围###locality##担 子 山##street##新 北 街##buildingnum##第 一 座##name##异 国 风 精 品 酒 店##buildingnum##十 五 层 二##relative_location##办 公 的 地 点 周 围##
+看 在 我 的 路 线 的 一个 好 玩 的 价格 高于 四 千 六 百 元 的 鸡 翅 店###relative_location##在 我 的 路 线##quality##好 玩##price_min##四 千 六 百 元##cat##鸡 翅 店##
+哪里 有 七 月 的 最 后 那 个 星 期 二 九点 托 克 托 县 观 塘 丽 东 酒 店 有 床位 吗###date##七 月 的 最 后 那 个 星 期 二##locality##托 克 托 县##name##观 塘 丽 东 酒 店##
+打开 yellowpages 何处 有 公 厕 在 中 山 武 林 广 场 的###provider##yellowpages##cat##公 厕##locality##中 山 武 林 广 场##
+显示 比 较 火 的 评价 高 质 量 分 子 美 食 铺 子###popularity##比 较 火##quality##高 质 量##cat##分 子 美 食 铺 子##
+告诉 我 路 径 沿 线 嘉 定 镇 公 司 哪里 有 二 流 的 趴 个 车###relative_location##路 径 沿 线##locality##嘉 定 镇##relative_location##公 司##quality##二 流##cat##趴 个 车##
+在 北 台 有 没有 一个 的 被 使 用 慢 速 充 电 夏 威 夷 餐 馆###locality##北 台##availability##被 使 用##speed##慢 速 充 电##cat##夏 威 夷 餐 馆##
+新 西 兰 搜索 地 上 车 场 住 二 十 三 个 小 时 五 十 九 分###locality##新 西 兰##cat##地 上 车 场##duration##二 十 三 个 小 时 五 十 九 分##
+我 要 来 找 名字 是 听 潮 大 药 房 的 能够 居 配 副 新 眼 镜 的 地方###name##听 潮 大 药 房##cat_implicit##配 副 新 眼 镜##
+找 一间 七 人 住 的 汽 车 经 销 商###numberofpersons##七##cat##汽 车 经 销 商##
+位于 怀 宁 永 嘉 路 三 点 七 号 的 我 北 找 个 可以 吃 汽 车 轮 胎###locality##怀 宁##street##永 嘉 路##buildingnum##三 点 七 号##relative_location##北##product##汽 车 轮 胎##
+查查 个 在线 目的地 室 内 泊 车 位###cat##室 内 泊 车 位##
+芦 洲 区 北 洼 路 上 哪儿 可 买 二 星 级 以 上 的 价格 价 钱 合 理 的 莎 吉 亚 推 荐 夏 日 美 食 香 辣 牛 蛙###locality##芦 洲 区##street##北 洼 路##quality##二 星 级 以 上##price##价 钱 合 理##product##莎 吉 亚 推 荐 夏 日 美 食 香 辣 牛 蛙##
+help _ me 有 没有 港 华 燃 气 的 未 占 用 斋 菜 店###anchor##港 华 燃 气##availability##未 占 用##cat##斋 菜 店##
+搜索 一个 地 图 上 福 州 地 税###provider##地 图##name##福 州 地 税##
+请 告诉 我 大 兴 商 场 在 哪里 呀###name##大 兴 商 场##
+和 美 哪 一家 j . a . m home - baked treats . jam 甜 品 教 室 的 赌 场 加 四 百 二 十 块 的 九 十 三 号 油###locality##和 美##name##j . a . m home - baked treats . jam 甜 品 教 室##cat##赌 场##price##四 百 二 十 块##fueltype##九 十 三 号 油##
+有 可以 青 海 餐 馆 的 地方 吗###cat##青 海 餐 馆##
+兴趣 点 在 郎 挡 山 星 湖 路 上 的 能 吃 洗 澡 的 在 哪###locality##郎 挡 山##street##星 湖 路##cat##洗 澡 的##
+搜索 可以 七 月 最 后 个 星 期 六 休 息 的 福 州 菜 馆###date##七 月 最 后 个 星 期 六##cat_implicit##休 息##cat##福 州 菜 馆##
+在 谷 歌 搜索 客 户 专 用 车 场###provider##谷 歌##cat##客 户 专 用 车 场##
+能 帮 我 查查 南 丰 餐 厅 宏 冠 道 上 的 良 好 的 芸 豆 溜 肉 丁 的 地方###street##南 丰 餐 厅 宏 冠 道##quality##良 好##product##芸 豆 溜 肉 丁##
+我 想 看看 安 道 尔 b 二 十 二 县 道 两 千 五 百 座 的 残 障 车 位###locality##安 道 尔##street##b 二 十 二 县 道##buildingnum##两 千 五 百 座##cat##残 障 车 位##
+找 找 四 二 七 零 零 零 张 家 界 市 登 州 路 上 功 放###locality##四 二 七 零 零 零 张 家 界 市##street##登 州 路##product##功 放##
+查寻 一个 价格 介于 八 十 六 元 和 二 千 七 百 元 的 二 十 星 的 母 婴 车 场 趴 个 车###price_min##八 十 六 元##price_max##二 千 七 百 元##starrating##二 十 星##cat##母 婴 车 场 趴 个 车##
+快 查找 青 浦 区 的 历 史 名 胜 加 e 一 零 汽 油 要 花 马 天 堂 丝 绸 之 路 的###locality##青 浦 区##cat##历 史 名 胜##fueltype##e 一 零 汽 油##name##花 马 天 堂 丝 绸 之 路##
+十 二 点 搜索 以 内 的 街 边 泊 车 场###time##十 二 点##price##以 内##cat##街 边 泊 车 场##
+在 志 本 山 山 大 路 上 查 查看 圣 廷 苑 酒 店###locality##志 本 山##street##山 大 路##name##圣 廷 苑 酒 店##
+预订 一 三 个 三 人 房 间###numberofrooms##一 三##roomtype##三 人 房 间##
+我 要 搜索 沿 路 供应 汽 油 九 十 七 号 的 土 耳 其 美 食###relative_location##沿 路##fueltype##汽 油 九 十 七 号##cat##土 耳 其 美 食##
+在 黄 金 龙 火 山 盂 城 路 跟 南 京 西 路 前 方 会 展 在 哪###locality##黄 金 龙 火 山##street##盂 城 路##intersectingstreet##南 京 西 路##relative_location##前 方##cat##会 展##
+百 步 亭 哪儿 能 找到 一 百 qrc###locality##百 步 亭##name##一 百 qrc##
+请 帮 我 查找 益 阳 四 一 三 零 零 零 东 海 西 路 一 号 的 日 式 菜 馆###locality##益 阳 四 一 三 零 零 零##street##东 海 西 路##buildingnum##一 号##cat##日 式 菜 馆##
+我 找 兴趣 点 我 家 里 陕 菜 都 有 哪些###relative_location##家 里##cat##陕 菜##
+搜 可以 打 高 尔 夫 草 莓 罐 头 的 地方 除 过 红京鱼###cat_implicit##打 高 尔 夫##product##草 莓 罐 头##
+查找 普 兰 店 市 本 地 的 success compu ltd###locality##普 兰 店 市##relative_location##本 地##name##success compu ltd##
+我 想 要 在 利 津 县 零 零 七 村 道 上 搜索 哪儿 有 一 千 质量 不 错 的 家 常 菜 卖###locality##利 津 县##street##零 零 七 村 道##price##一 千##quality##不 错##product##家 常 菜##
+想 要 查找 大 高 树 山 有 没有 好 玩 的 西 瓜###locality##大 高 树 山##quality##好 玩##product##西 瓜##
+能 订 到 九 个 的 双 人 商 务 间 吗 下 月 二 号 退 房###numberofpersons##九 个##roomtype##双 人 商 务 间##enddate##下 月 二 号##
+搜 搜 个 哪 能 纹 身 店###cat##纹 身 店##
+找 九 百 二 十 公 里 之 内 价格 在 一 百 八 十 到 八 十 二 元 好 以 上 的 橙 子###distance##九 百 二 十 公 里 之 内##price_min##一 百 八 十##price_max##八 十 二 元##quality##好 以 上##product##橙 子##
