@@ -35,7 +35,6 @@ help _ me 找 贵 州 饭 馆###cat##贵 州 饭 馆##
 樊 山 的 在 哪个 地方 能 找到 能 吃 剃 须 刀 的 地方###locality##樊 山##product##剃 须 刀##
 还有 床位 的 摩 托 车 停 车 点###cat##摩 托 车 停 车 点##
 哪个 街 道 停 车 有 位 在 这 个 区###cat##街 道 停 车##relative_location##这 个 区##
-搜 索 副 食 商 店 或 者 是 房 产 交 易 中 心###
 寻找 乘 坐 热 气 球 住 的 附 近###cat##乘 坐 热 气 球##relative_location##住 的 附 近##
 本 地 附 近 有 没 有空 的 朝 鲜 族 建 筑###relative_location##本 地 附 近##cat##朝 鲜 族 建 筑##
 车 百 路 我 要 查找 是否 有 裤 子###street##车 百 路##product##裤 子##
@@ -183,7 +182,6 @@ help _ me 哪里 有 马 塘 坳 的 未 占 用 印 尼 美 食###locality##马
 到 那 个 地 方 有 没有 一间 五 颗 星 级 的 蛋 糕 店###relative_location##那 个 地 方##starrating##五 颗 星 级##cat##蛋 糕 店##
 找 一下 这 的 有 人 看 守 车 场 的 地方###relative_location##这##cat##有 人 看 守 车 场##
 搜 搜 一下 东 明 路 三 百 楼 奥 拓 中 心###street##东 明 路##buildingnum##三 百 楼##name##奥 拓 中 心##
-查 找 一 个 停 车 位 或 者 停 车 场###
 找 一个 访 客 停 车 场 大约 四 千 五 百 块###cat##访 客 停 车 场##price_about##四 千 五 百 块##
 有 没有 有 空 位 到 夜 晚 四 点 二 十 一 到 晚 上 八 点 半 的 停 车 搭 乘###availability##有 空 位##endtime##夜 晚 四 点 二 十 一##endtime##晚 上 八 点 半##cat##停 车 搭 乘##
 在 三 千 三 百 米 之 内 快 查查 一些 烟 台 餐 馆###distance##三 千 三 百 米 之 内##cat##烟 台 餐 馆##
@@ -213,8 +211,6 @@ help _ me 哪里 有 马 塘 坳 的 未 占 用 印 尼 美 食###locality##马
 找 找 看 草 洋 山 能 加 超 级 无 铅 汽 油 的 食 店###locality##草 洋 山##fueltype##超 级 无 铅 汽 油##cat##食 店##
 寻找 一个 盘 龙 寺 山 的 能 充电 一 个 周 末 的 埃 塞 俄 比 亚 菜 馆###locality##盘 龙 寺 山##duration##一 个 周 末##cat##埃 塞 俄 比 亚 菜 馆##
 查找 无 锡 盐 山 县 人 气 旺 的 耳 鼻 喉 医 生###locality##无 锡 盐 山 县##popularity##人 气 旺##cat##耳 鼻 喉 医 生##
-显 示 贵 阳 银 行 或 者 郑 州 银 行###
-查 找 有 雨 衣 或 粉 饼 的 地 方###
 找 找 看 袁 家 火 山 的 哪儿 能 加 汽 油 93 号 最 贵 的 的 地方###locality##袁 家 火 山##fueltype##汽 油 93 号##price##最 贵 的##
 寻找 单 标 间 的 过 夜 车 位###roomtype##单 标 间##cat##过 夜 车 位##
 有 没有 这 个 附 近 比 较 流 行 的 修 理 厂###relative_location##这 个 附 近##popularity##比 较 流 行##cat##修 理 厂##
@@ -245,7 +241,6 @@ help _ me 哪里 有 马 塘 坳 的 未 占 用 印 尼 美 食###locality##马
 打 点评 找 1 km 内 有 没有 健 身###relative_location##1 km 内##cat##健 身##
 把 这 个 区 的 师 大 附 中 告诉 我###relative_location##这 个 区##name##师 大 附 中##
 查看 在 鞍 山 开 发 区 港 口 一 路 和 花 边 南 路 徽 菜 有 哪些###locality##鞍 山 开 发 区##street##港 口 一 路##intersectingstreet##花 边 南 路##cat##徽 菜##
-给 我 搜 搜 有 牛 仔 裙 或 者 参 考 书 的 地 方###
 我 想 搜 搜 一个 家 路 上 的 四 川 菜 餐 厅###relative_location##家 路 上##cat##四 川 菜 餐 厅##
 我 想 要 知道 五 百 米 内 辣 的 在 哪儿###relative_location##五 百 米 内##cat##辣 的##
 查找 兴趣 点 红 旗 区 兴 工 北 街 十 八 弄 的 可以 喝 斗 橱###locality##红 旗 区##street##兴 工 北 街##buildingnum##十 八 弄##product##斗 橱##
